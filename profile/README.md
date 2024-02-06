@@ -13,6 +13,7 @@
 <p align="center">
   Empowering creators to keep more of what they earn.<br />
   [ <a href="https://bundle.so">Website</a> ] 
+  [ <a href="https://github.com/bundlecash/roadmap">Roadmap</a> ]
   [ <a href="mailto:hey@bundle.so">hey@bundle.so</a> ]
   [ <a href="https://twitter.com/bundlecash">Twitter (X)</a> ]
 </p>
